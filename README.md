@@ -1,19 +1,16 @@
 # Mohammed Alnujeam
 
-## نبذة
-مهندس دعم صيانة في قطاع البتروكيماويات منذ 2007. أركز على Python والسحابة والذكاء الاصطناعي.
+## About
+Maintenance support supervisor in the petrochemical sector since 2007. Focused on Python, cloud, and AI.
 
-## مهارات
+## Skills
 - Python
 - SAP
-- الصيانة والدعم الهندسي
-- إدارة المشروعات الصغيرة
-- تعلم الآلة والنماذج اللغوية
+- Maintenance and engineering support
+- Small project management
+- Machine learning and language models
 
-## مشاريع مميزة
-- **Najah**: منصة تعليمية تعتمد على الذكاء الاصطناعي لبناء مسارات تعلم شخصية.
-- **مشروع تحليل بيانات مالية**: يستخدم Python لتحليل أداء نادي مانشستر يونايتد.
-- **تطبيق تجريبي لوكلاء ذكيين**: يستخدم تقنيات RAG.
-
-## ماذا أبحث عنه
-أبحث عن فرصة إدارية في مجال الهندسة والدعم التقني حيث يمكنني تطبيق خبرتي في الصيانة والأتمتة مع تطوير حلول قائمة على الذكاء الاصطناعي.
+## Featured Projects
+- **Najah**: AI-driven learning platform for personalized learning paths.
+- **Financial Data Analysis Project**: Uses Python to analyze financial performance.
+- **Experimental Intelligent Agents**: Demonstrates RAG techniques.
